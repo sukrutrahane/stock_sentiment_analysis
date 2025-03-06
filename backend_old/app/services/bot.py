@@ -33,7 +33,7 @@ def get_gemini_response(user_query):
     Fetches a concise, decision-focused response from Google Gemini API.
     """
     try:
-        model = genai.GenerativeModel("gemini-pro")
+        model = genai.GenerativeModel("gemini-1.5-flash")
         full_prompt = PROMPT_TEMPLATE.format(query=user_query)
         response = model.generate_content(full_prompt)
         return response.text.strip() if response else "No relevant insights available."
