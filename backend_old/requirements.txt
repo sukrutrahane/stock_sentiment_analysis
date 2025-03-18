@@ -1,0 +1,11 @@
+flask
+flask-cors
+requests
+google-generativeai
+dotenv
+datetime
+selenium
+webdriver-manager
+transformers
+torch
+numpy
