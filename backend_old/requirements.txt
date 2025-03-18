@@ -9,3 +9,4 @@ webdriver-manager
 transformers
 torch
 numpy
+gunicorn
