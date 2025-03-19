@@ -2,7 +2,7 @@
 
 This project analyzes stock market sentiment based on news headlines or tweets using Natural Language Processing (NLP). It helps investors and traders understand market trends by classifying sentiment as positive, negative, or neutral.
 
-##🚀 Features
+## 🚀 Features
 
 Sentiment Analysis: Predicts sentiment for stock-related news/tweets.
 
@@ -15,7 +15,7 @@ Real-time Data Fetching: Fetches live stock-related news for analysis.
 Deployment: Backend hosted on Render, Frontend deployed on Vercel.
 
 
-##🔧 Setup & Installation
+## 🔧 Setup & Installation
 
 1️⃣ Backend Setup
 
