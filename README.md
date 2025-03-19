@@ -13,13 +13,22 @@ Deployment: Backend hosted on Render, Frontend deployed on Vercel.
 🔧 Setup & Installation
 
 1️⃣ Backend Setup
+
 cd backend_old
-python -m venv venv  # Create virtual environment
+
+python -m venv venv  
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python run.py
 
 2️⃣ Frontend Setup
+
 cd frontend2
+
 npm install 
+
 npm run dev  
+
